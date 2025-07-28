@@ -85,5 +85,29 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     }
+    "xiaoji": {
+      "api": "https://api.xiaojizy.live/provide/vod",
+      "name": "小鸡资源"
+    }
+    "xibao": {
+      "api": "https://www.xxibaozyw.com/api.php/provide/vod",
+      "name": "细胞资源"
   }
+    "huangse": {
+      "api": "https://hsckzy888.com/api.php/provide/vod",
+      "name": "黄色仓库"
+  }
+    "danaizi": {
+      "api": "https://apidanaizi.com/api.php/provide/vod",
+      "name": "大奶子资源"
+  }
+    "yutu": {
+      "api": "https://apiyutu.com/api.php/providedao/vod",
+      "name": "玉兔资源"
+  }
+     "caoliu": {
+      "api": "https://www.caoliuzyw.com/api.php/prodao/vod",
+      "name": "草榴资源"
+  }
+}
 }
