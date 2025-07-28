@@ -1,5 +1,5 @@
 {
-    "cache_time": 7200,
+  "cache_time": 7200,
   "api_site": {
     "dyttzy": {
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
@@ -108,6 +108,6 @@
      "caoliu": {
       "api": "https://www.caoliuzyw.com/api.php/prodao/vod",
       "name": "草榴资源"
-  },
-}
+  }
+  }
 }
